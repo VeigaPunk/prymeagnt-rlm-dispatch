@@ -17,3 +17,5 @@ history lives on the craft/* branches of this repo; the fleet ledger is
 .shokunin/MANIFEST.json there.
 
 Province: RLM child-spawn model-admission and settlement evidence (verify_receipt.py). Promoted shonen -> shokunin at round 4.
+
+Upstream: https://github.com/VeigaPunk/prymeagnt-rlm-dispatch (branch main carries this corpus; craft/* branches carry round history). Local execution references it with: git fetch rlm-dispatch main
