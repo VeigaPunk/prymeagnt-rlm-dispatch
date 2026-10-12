@@ -1,0 +1,9 @@
+{
+  "model": {
+    "provider": "zai",
+    "modelId": "glm-5.3-flash"
+  },
+  "status": "completed",
+  "sessionFile": ".shokunin/rlm-dispatch/corpus/verification/fixtures/session-wrong.jsonl",
+  "type": "rlm_subagent"
+}
